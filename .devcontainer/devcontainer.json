@@ -4,5 +4,6 @@
 		"dockerfile": "Dockerfile"
 	},
 	"runArgs": ["--gpus","all"],
-	"remoteUser": "cuquantum"
+	"remoteUser": "cuquantum",
+	"postCreateCommand":  "python3 setup.py develop"
 }
