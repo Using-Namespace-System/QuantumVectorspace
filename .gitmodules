@@ -1,0 +1,3 @@
+[submodule "src/onehotq"]
+	path = src/onehotq
+	url = https://github.com/Using-Namespace-System/onehotq.git
