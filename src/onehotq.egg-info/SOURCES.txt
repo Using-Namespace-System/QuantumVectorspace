@@ -6,4 +6,8 @@ src/onehotq.egg-info/SOURCES.txt
 src/onehotq.egg-info/dependency_links.txt
 src/onehotq.egg-info/top_level.txt
 src/onehotq/core/__init__.py
+src/onehotq/core/eig.py
+src/onehotq/core/qcomp.py
+src/onehotq/core/qcos.py
+src/onehotq/core/qsphere.py
 src/onehotq/util/__init__.py
